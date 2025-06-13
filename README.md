@@ -2,7 +2,6 @@
 
 This project is a SQL-based **Research Projects Database System** designed using the **Entity-Relationship (ER) model**. It captures essential data and relationships between research projects, employees, and funding agencies.
 
-## 📌 Description
 
 The database models a real-world scenario where:
 
